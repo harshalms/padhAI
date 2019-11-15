@@ -1,0 +1,6 @@
+git status: shows all files which are not commited
+git add filename
+git status
+git commit -m "some messege you wish to write for commitment"
+git pull origin master
+git push origin master
